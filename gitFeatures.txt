@@ -4,3 +4,14 @@ Git Features
 2. Merging
 3. cloning
 4. Forking
+
+
+Branching
+----------
+- git branch first_team (to create a branch)
+- git checkout first_team (in order to switch to new branch)
+
+
+cloning
+----------
+git clone "SSH key link"
