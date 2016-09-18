@@ -1,0 +1,18 @@
+Git commands
+------------
+
+1. git init
+2. git add ./test.txt (adding to staging area)
+3. git commit -m "message"
+
+4. git status
+5. git log
+6. git log --oneline
+7. git status -s
+
+8. git commit -a -m "message" 
+   (shortcut for both staging area and commit)
+
+
+9. git remote add origin
+10. git push origin master 
