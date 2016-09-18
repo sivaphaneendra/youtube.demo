@@ -1,0 +1,6 @@
+Git Features
+------------- 
+1. Branching
+2. Merging
+3. cloning
+4. Forking
